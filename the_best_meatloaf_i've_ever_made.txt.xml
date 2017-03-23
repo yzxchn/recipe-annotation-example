@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<recipe_annotatev0.1>
+<TEXT><![CDATA[The Best Meatloaf I've Ever Made
+
+85
+
+1 tablespoon butter
+1/4 cup minced onion
+2 cloves garlic, minced
+1 1/2 teaspoons salt
+1 1/2 teaspoons freshly ground black pepper
+2 pounds extra-lean ground beef
+3 slices bread, toasted and crumbled
+7 buttery round crackers, crushed
+1 egg, lightly beaten
+3 1/2 tablespoons sour cream
+1 1/2 tablespoons Worcestershire sauce
+1 (15 ounce) can tomato sauce, divided
+1/4 cup milk (optional)
+3 tablespoons ketchup
+
+Preheat oven to 350 degrees F (175 degrees C).
+Melt the butter in a skillet over medium heat, and cook the onion and garlic 5 minutes, until onion is tender. Remove from heat, and season with salt and pepper.
+In a large bowl, mix the onion and garlic, beef, crumbled bread, crushed crackers, egg, sour cream, Worcestershire sauce, and 1/2 can tomato sauce. Gradually stir in the milk 1 teaspoon at a time until mixture is moist, but not soggy. Transfer the mixture to a 5x9 inch loaf pan.
+Bake uncovered in the preheated oven 40 minutes. Increase oven temperature to 400 degrees F (200 degrees C), and continue baking 15 minutes, to an internal temperature of 160 degrees F (70 degrees C).
+In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top of the meatloaf, and continue baking 10 minutes.
+]]></TEXT>
+<TAGS>
+<Action id="A0" spans="447~454" text="Preheat" act_type="SetTool" />
+<Action id="A1" spans="494~498" text="Melt" act_type="Cook" />
+<Action id="A2" spans="545~549" text="cook" act_type="Cook" />
+<Action id="A3" spans="605~611" text="Remove" act_type="Other" />
+<Action id="A4" spans="627~633" text="season" act_type="Mix" />
+<Action id="A5" spans="673~676" text="mix" act_type="Mix" />
+<Action id="A6" spans="814~818" text="stir" act_type="Mix" />
+<Action id="A7" spans="891~899" text="Transfer" act_type="Put" />
+<Action id="A8" spans="936~940" text="Bake" act_type="Cook" />
+<Action id="A9" spans="985~993" text="Increase" act_type="SetTool" />
+<Action id="A10" spans="1049~1057" text="continue" act_type="Leave" />
+<Action id="A11" spans="1154~1157" text="mix" act_type="Mix" />
+<Action id="A12" spans="1198~1202" text="Pour" act_type="Combine" />
+<Action id="A13" spans="1237~1245" text="continue" act_type="Leave" />
+<Ingredient id="I2" spans="51~57" text="butter" start_state="Yes" composit="No" />
+<Ingredient id="I3" spans="66~78" text="minced onion" start_state="Yes" composit="No" />
+<Ingredient id="I4" spans="88~94" text="garlic" start_state="Yes" composit="No" />
+<Ingredient id="I5" spans="119~123" text="salt" start_state="Yes" composit="No" />
+<Ingredient id="I6" spans="140~167" text="freshly ground black pepper" start_state="Yes" composit="No" />
+<Ingredient id="I7" spans="177~199" text="extra-lean ground beef" start_state="Yes" composit="No" />
+<Ingredient id="I8" spans="209~214" text="bread" start_state="Yes" composit="No" />
+<Ingredient id="I9" spans="239~261" text="buttery round crackers" start_state="Yes" composit="No" />
+<Ingredient id="I10" spans="273~276" text="egg" start_state="Yes" composit="No" />
+<Ingredient id="I11" spans="311~321" text="sour cream" start_state="Yes" composit="No" />
+<Ingredient id="I12" spans="340~360" text="Worcestershire sauce" start_state="Yes" composit="No" />
+<Ingredient id="I13" spans="378~390" text="tomato sauce" start_state="Yes" composit="No" />
+<Ingredient id="I14" spans="408~412" text="milk" start_state="Yes" composit="No" />
+<Ingredient id="I15" spans="438~445" text="ketchup" start_state="Yes" composit="No" />
+<Ingredient id="I16" spans="503~509" text="butter" start_state="Yes" composit="No" />
+<Ingredient id="I17" spans="554~559" text="onion" start_state="Yes" composit="No" />
+<Ingredient id="I18" spans="564~570" text="garlic" start_state="Yes" composit="No" />
+<Ingredient id="I19" spans="639~643" text="salt" start_state="Yes" composit="No" />
+<Ingredient id="I20" spans="648~654" text="pepper" start_state="Yes" composit="No" />
+<Ingredient id="I21" spans="681~686" text="onion" start_state="No" composit="No" />
+<Ingredient id="I22" spans="691~697" text="garlic" start_state="No" composit="No" />
+<Ingredient id="I23" spans="699~703" text="beef" start_state="Yes" composit="No" />
+<Ingredient id="I24" spans="705~719" text="crumbled bread" start_state="Yes" composit="No" />
+<Ingredient id="I25" spans="721~737" text="crushed crackers" start_state="Yes" composit="No" />
+<Ingredient id="I26" spans="739~742" text="egg" start_state="Yes" composit="No" />
+<Ingredient id="I27" spans="744~754" text="sour cream" start_state="Yes" composit="No" />
+<Ingredient id="I28" spans="756~776" text="Worcestershire sauce" start_state="Yes" composit="No" />
+<Ingredient id="I29" spans="790~802" text="tomato sauce" start_state="Yes" composit="No" />
+<Ingredient id="I30" spans="826~830" text="milk" start_state="Yes" composit="No" />
+<Ingredient id="I31" spans="904~911" text="mixture" start_state="No" composit="Yes" />
+<Ingredient id="I32" spans="1162~1184" text="remaining tomato sauce" start_state="Yes" composit="No" />
+<Ingredient id="I33" spans="1189~1196" text="ketchup" start_state="Yes" composit="No" />
+<Ingredient id="I34" spans="1223~1231" text="meatloaf" start_state="No" composit="Yes" />
+<Quantity id="Q0" spans="38~39" text="1"  />
+<Quantity id="Q2" spans="58~61" text="1/4"  />
+<Quantity id="Q3" spans="79~80" text="2"  />
+<Quantity id="Q4" spans="103~108" text="1 1/2"  />
+<Quantity id="Q5" spans="124~129" text="1 1/2"  />
+<Quantity id="Q6" spans="168~169" text="2"  />
+<Quantity id="Q7" spans="200~201" text="3"  />
+<Quantity id="Q8" spans="237~238" text="7"  />
+<Quantity id="Q9" spans="271~272" text="1"  />
+<Quantity id="Q10" spans="293~298" text="3 1/2"  />
+<Quantity id="Q11" spans="322~327" text="1 1/2"  />
+<Quantity id="Q12" spans="361~362" text="1"  />
+<Quantity id="Q13" spans="400~403" text="1/4"  />
+<Quantity id="Q14" spans="424~425" text="3"  />
+<Quantity id="Q15" spans="782~785" text="1/2"  />
+<Unit id="U0" spans="40~50" text="tablespoon"  />
+<Unit id="U1" spans="62~65" text="cup"  />
+<Unit id="U2" spans="81~87" text="cloves"  />
+<Unit id="U3" spans="109~118" text="teaspoons"  />
+<Unit id="U4" spans="130~139" text="teaspoons"  />
+<Unit id="U5" spans="170~176" text="pounds"  />
+<Unit id="U7" spans="202~208" text="slices"  />
+<Unit id="U8" spans="299~310" text="tablespoons"  />
+<Unit id="U9" spans="328~339" text="tablespoons"  />
+<Unit id="U10" spans="374~377" text="can"  />
+<Unit id="U11" spans="404~407" text="cup"  />
+<Unit id="U12" spans="426~437" text="tablespoons"  />
+<Unit id="U13" spans="786~789" text="can"  />
+<Tool id="T0" spans="455~459" text="oven"  />
+<Tool id="T1" spans="515~522" text="skillet"  />
+<Tool id="T2" spans="661~671" text="large bowl"  />
+<Tool id="T3" spans="917~934" text="5x9 inch loaf pan"  />
+<Tool id="T4" spans="958~972" text="preheated oven"  />
+<Tool id="T6" spans="1142~1152" text="small bowl"  />
+<Flow id="F0" toID="A0" toText="Preheat" fromID="T0" fromText="oven" />
+<Flow id="F1" fromID="I16" fromText="butter" toID="A1" toText="Melt" />
+<Flow id="F2" fromID="T1" fromText="skillet" toID="A1" toText="Melt" />
+<Flow id="F3" fromID="I17" fromText="onion" toID="A2" toText="cook" />
+<Flow id="F4" fromID="I18" fromText="garlic" toID="A2" toText="cook" />
+<Flow id="F5" fromID="A2" fromText="cook" toID="A3" toText="Remove" />
+<Flow id="F6" fromID="A3" fromText="Remove" toID="A4" toText="season" />
+<Flow id="F7" fromID="I19" fromText="salt" toID="A4" toText="season" />
+<Flow id="F8" fromID="I20" fromText="pepper" toID="A4" toText="season" />
+<Flow id="F9" fromID="T2" fromText="large bowl" toID="A5" toText="mix" />
+<Flow id="F10" fromID="A4" fromText="season" toID="I21" toText="onion" />
+<Flow id="F11" fromID="A4" fromText="season" toID="I22" toText="garlic" />
+<Flow id="F12" fromID="I21" fromText="onion" toID="A5" toText="mix" />
+<Flow id="F13" fromID="I22" fromText="garlic" toID="A5" toText="mix" />
+<Flow id="F14" fromID="I23" fromText="beef" toID="A5" toText="mix" />
+<Flow id="F15" fromID="I24" fromText="crumbled bread" toID="A5" toText="mix" />
+<Flow id="F16" fromID="I25" fromText="crushed crackers" toID="A5" toText="mix" />
+<Flow id="F17" fromID="I26" fromText="egg" toID="A5" toText="mix" />
+<Flow id="F18" fromID="I27" fromText="sour cream" toID="A5" toText="mix" />
+<Flow id="F19" fromID="I28" fromText="Worcestershire sauce" toID="A5" toText="mix" />
+<Flow id="F20" fromID="I29" fromText="tomato sauce" toID="A5" toText="mix" />
+<Flow id="F21" fromID="A5" fromText="mix" toID="A6" toText="stir" />
+<Flow id="F22" fromID="I30" fromText="milk" toID="A6" toText="stir" />
+<Flow id="F24" fromID="A6" fromText="stir" toID="I31" toText="mixture" />
+<Flow id="F25" fromID="I31" fromText="mixture" toID="A7" toText="Transfer" />
+<Flow id="F26" fromID="T3" fromText="5x9 inch loaf pan" toID="A7" toText="Transfer" />
+<Flow id="F27" fromID="A7" fromText="Transfer" toID="A8" toText="Bake" />
+<Flow id="F28" fromID="T4" fromText="preheated oven" toID="A8" toText="Bake" />
+<Flow id="F29" toID="A9" toText="Increase" fromID="A8" fromText="Bake" />
+<Flow id="F30" fromID="A9" fromText="Increase" toID="A10" toText="continue" />
+<Flow id="F31" fromID="A10" fromText="continue" toID="I34" toText="meatloaf" />
+<Flow id="F32" fromID="T6" fromText="small bowl" toID="A11" toText="mix" />
+<Flow id="F33" fromID="I32" fromText="remaining tomato sauce" toID="A11" toText="mix" />
+<Flow id="F34" fromID="I33" fromText="ketchup" toID="A11" toText="mix" />
+<Flow id="F35" fromID="A11" fromText="mix" toID="A12" toText="Pour" />
+<Flow id="F36" fromID="I34" fromText="meatloaf" toID="A12" toText="Pour" />
+<Flow id="F37" fromID="A12" fromText="Pour" toID="A13" toText="continue" />
+<Coref id="C0" exp_aID="I2" exp_aText="butter" exp_bID="I16" exp_bText="butter" />
+<Coref id="C1" exp_aID="I3" exp_aText="minced onion" exp_bID="I17" exp_bText="onion" />
+<Coref id="C2" exp_aID="I4" exp_aText="garlic" exp_bID="I18" exp_bText="garlic" />
+<Coref id="C3" exp_aID="I5" exp_aText="salt" exp_bID="I19" exp_bText="salt" />
+<Coref id="C4" exp_aID="I6" exp_aText="freshly ground black pepper" exp_bID="I20" exp_bText="pepper" />
+<Coref id="C5" exp_aID="I7" exp_aText="extra-lean ground beef" exp_bID="I23" exp_bText="beef" />
+<Coref id="C6" exp_aID="I8" exp_aText="bread" exp_bID="I24" exp_bText="crumbled bread" />
+<Coref id="C7" exp_aID="I9" exp_aText="buttery round crackers" exp_bID="I25" exp_bText="crushed crackers" />
+<Coref id="C8" exp_aID="I10" exp_aText="egg" exp_bID="I26" exp_bText="egg" />
+<Coref id="C9" exp_aID="I11" exp_aText="sour cream" exp_bID="I27" exp_bText="sour cream" />
+<Coref id="C10" exp_aID="I12" exp_aText="Worcestershire sauce" exp_bID="I28" exp_bText="Worcestershire sauce" />
+<Coref id="C11" exp_aID="I13" exp_aText="tomato sauce" exp_bID="I29" exp_bText="tomato sauce" />
+<Coref id="C12" exp_aID="I14" exp_aText="milk" exp_bID="I30" exp_bText="milk" />
+<Coref id="C13" exp_aID="I13" exp_aText="tomato sauce" exp_bID="I32" exp_bText="remaining tomato sauce" />
+<Coref id="C14" exp_aID="I15" exp_aText="ketchup" exp_bID="I33" exp_bText="ketchup" />
+</TAGS>
+</recipe_annotatev0.1>

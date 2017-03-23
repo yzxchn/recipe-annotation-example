@@ -1,0 +1,41 @@
+<!ENTITY name "recipe_annotatev0.1">
+
+<!ELEMENT Action ( #PCDATA ) >
+<!ATTLIST Action act_type (Combine | Separate | Put | Remove | Cut | Mix | Cook | Serve | SetTool | Leave | Check | Other) #REQUIRED>
+
+<!ELEMENT Ingredient (#PCDATA) >
+<!ATTLIST Ingredient start_state (Yes | No) #REQUIRED>
+<!ATTLIST Ingredient composit (Yes | No) #REQUIRED>
+
+<!ELEMENT Quantity (#PCDATA)>
+<!ELEMENT Unit (#PCDATA)>
+
+<!ELEMENT Tool ( #PCDATA ) >
+
+<!--
+<!ELEMENT Description (#PCDATA)>
+-->
+
+
+<!--
+<!ELEMENT IngSpec EMPTY>
+<!ATTLIST IngSpec arg0 IDREF prefix="ing_name" #REQUIRED>
+<!ATTLIST IngSpec arg3 IDREF prefix="ing_desc" #IMPLIED>
+
+<!ELEMENT ActSpec EMPTY>
+<!ATTLIST ActSpec arg0 IDREF prefix="act_name" #REQUIRED>
+<!ATTLIST ActSpec arg1 IDREF prefix="act_desc" #IMPLIED>
+
+<!ELEMENT ToolSpec EMPTY>
+<!ATTLIST ToolSpec arg0 IDREF prefix="tool_name" #REQUIRED>
+<!ATTLIST ToolSpec arg1 IDREF prefix="tool_desc" #IMPLIED>
+-->
+
+<!--Link Tags-->
+<!ELEMENT Flow EMPTY>
+<!ATTLIST Flow arg0 IDREF prefix="from" #REQUIRED>
+<!ATTLIST Flow arg1 IDREF prefix="to" #REQUIRED>
+
+<!ELEMENT Coref EMPTY>
+<!ATTLIST Coref arg0 IDREF prefix="exp_a" #REQUIRED>
+<!ATTLIST Coref arg1 IDREF prefix="exp_b" #REQUIRED>
