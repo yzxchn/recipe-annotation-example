@@ -5,7 +5,7 @@
 
 <!ELEMENT Ingredient (#PCDATA) >
 <!ATTLIST Ingredient start_state (Yes | No) #REQUIRED>
-<!ATTLIST Ingredient composit (Yes | No) #REQUIRED>
+<!ATTLIST Ingredient composite (Yes | No) #REQUIRED>
 
 <!ELEMENT Quantity (#PCDATA)>
 <!ELEMENT Unit (#PCDATA)>
