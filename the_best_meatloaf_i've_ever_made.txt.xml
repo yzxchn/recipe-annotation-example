@@ -41,39 +41,39 @@ In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top o
 <Action id="A11" spans="1154~1157" text="mix" act_type="Mix" />
 <Action id="A12" spans="1198~1202" text="Pour" act_type="Combine" />
 <Action id="A13" spans="1237~1245" text="continue" act_type="Leave" />
-<Ingredient id="I2" spans="51~57" text="butter" start_state="Yes" composit="No" />
-<Ingredient id="I3" spans="66~78" text="minced onion" start_state="Yes" composit="No" />
-<Ingredient id="I4" spans="88~94" text="garlic" start_state="Yes" composit="No" />
-<Ingredient id="I5" spans="119~123" text="salt" start_state="Yes" composit="No" />
-<Ingredient id="I6" spans="140~167" text="freshly ground black pepper" start_state="Yes" composit="No" />
-<Ingredient id="I7" spans="177~199" text="extra-lean ground beef" start_state="Yes" composit="No" />
-<Ingredient id="I8" spans="209~214" text="bread" start_state="Yes" composit="No" />
-<Ingredient id="I9" spans="239~261" text="buttery round crackers" start_state="Yes" composit="No" />
-<Ingredient id="I10" spans="273~276" text="egg" start_state="Yes" composit="No" />
-<Ingredient id="I11" spans="311~321" text="sour cream" start_state="Yes" composit="No" />
-<Ingredient id="I12" spans="340~360" text="Worcestershire sauce" start_state="Yes" composit="No" />
-<Ingredient id="I13" spans="378~390" text="tomato sauce" start_state="Yes" composit="No" />
-<Ingredient id="I14" spans="408~412" text="milk" start_state="Yes" composit="No" />
-<Ingredient id="I15" spans="438~445" text="ketchup" start_state="Yes" composit="No" />
-<Ingredient id="I16" spans="503~509" text="butter" start_state="Yes" composit="No" />
-<Ingredient id="I17" spans="554~559" text="onion" start_state="Yes" composit="No" />
-<Ingredient id="I18" spans="564~570" text="garlic" start_state="Yes" composit="No" />
-<Ingredient id="I19" spans="639~643" text="salt" start_state="Yes" composit="No" />
-<Ingredient id="I20" spans="648~654" text="pepper" start_state="Yes" composit="No" />
-<Ingredient id="I21" spans="681~686" text="onion" start_state="No" composit="No" />
-<Ingredient id="I22" spans="691~697" text="garlic" start_state="No" composit="No" />
-<Ingredient id="I23" spans="699~703" text="beef" start_state="Yes" composit="No" />
-<Ingredient id="I24" spans="705~719" text="crumbled bread" start_state="Yes" composit="No" />
-<Ingredient id="I25" spans="721~737" text="crushed crackers" start_state="Yes" composit="No" />
-<Ingredient id="I26" spans="739~742" text="egg" start_state="Yes" composit="No" />
-<Ingredient id="I27" spans="744~754" text="sour cream" start_state="Yes" composit="No" />
-<Ingredient id="I28" spans="756~776" text="Worcestershire sauce" start_state="Yes" composit="No" />
-<Ingredient id="I29" spans="790~802" text="tomato sauce" start_state="Yes" composit="No" />
-<Ingredient id="I30" spans="826~830" text="milk" start_state="Yes" composit="No" />
-<Ingredient id="I31" spans="904~911" text="mixture" start_state="No" composit="Yes" />
-<Ingredient id="I32" spans="1162~1184" text="remaining tomato sauce" start_state="Yes" composit="No" />
-<Ingredient id="I33" spans="1189~1196" text="ketchup" start_state="Yes" composit="No" />
-<Ingredient id="I34" spans="1223~1231" text="meatloaf" start_state="No" composit="Yes" />
+<Ingredient id="I2" spans="51~57" text="butter" start_state="Yes" composite="No" />
+<Ingredient id="I3" spans="66~78" text="minced onion" start_state="Yes" composite="No" />
+<Ingredient id="I4" spans="88~102" text="garlic, minced" start_state="Yes" composite="No" />
+<Ingredient id="I5" spans="119~123" text="salt" start_state="Yes" composite="No" />
+<Ingredient id="I6" spans="140~167" text="freshly ground black pepper" start_state="Yes" composite="No" />
+<Ingredient id="I7" spans="177~199" text="extra-lean ground beef" start_state="Yes" composite="No" />
+<Ingredient id="I8" spans="209~236" text="bread, toasted and crumbled" start_state="Yes" composite="No" />
+<Ingredient id="I9" spans="239~270" text="buttery round crackers, crushed" start_state="Yes" composite="No" />
+<Ingredient id="I10" spans="273~292" text="egg, lightly beaten" start_state="Yes" composite="No" />
+<Ingredient id="I11" spans="311~321" text="sour cream" start_state="Yes" composite="No" />
+<Ingredient id="I12" spans="340~360" text="Worcestershire sauce" start_state="Yes" composite="No" />
+<Ingredient id="I13" spans="378~399" text="tomato sauce, divided" start_state="Yes" composite="No" />
+<Ingredient id="I14" spans="408~412" text="milk" start_state="Yes" composite="No" />
+<Ingredient id="I15" spans="438~445" text="ketchup" start_state="Yes" composite="No" />
+<Ingredient id="I16" spans="503~509" text="butter" start_state="Yes" composite="No" />
+<Ingredient id="I17" spans="554~559" text="onion" start_state="Yes" composite="No" />
+<Ingredient id="I18" spans="564~570" text="garlic" start_state="Yes" composite="No" />
+<Ingredient id="I19" spans="639~643" text="salt" start_state="Yes" composite="No" />
+<Ingredient id="I20" spans="648~654" text="pepper" start_state="Yes" composite="No" />
+<Ingredient id="I21" spans="681~686" text="onion" start_state="No" composite="No" />
+<Ingredient id="I22" spans="691~697" text="garlic" start_state="No" composite="No" />
+<Ingredient id="I23" spans="699~703" text="beef" start_state="Yes" composite="No" />
+<Ingredient id="I24" spans="705~719" text="crumbled bread" start_state="Yes" composite="No" />
+<Ingredient id="I25" spans="721~737" text="crushed crackers" start_state="Yes" composite="No" />
+<Ingredient id="I26" spans="739~742" text="egg" start_state="Yes" composite="No" />
+<Ingredient id="I27" spans="744~754" text="sour cream" start_state="Yes" composite="No" />
+<Ingredient id="I28" spans="756~776" text="Worcestershire sauce" start_state="Yes" composite="No" />
+<Ingredient id="I29" spans="790~802" text="tomato sauce" start_state="Yes" composite="No" />
+<Ingredient id="I30" spans="826~830" text="milk" start_state="Yes" composite="No" />
+<Ingredient id="I31" spans="904~911" text="mixture" start_state="No" composite="Yes" />
+<Ingredient id="I32" spans="1162~1184" text="remaining tomato sauce" start_state="Yes" composite="No" />
+<Ingredient id="I33" spans="1189~1196" text="ketchup" start_state="Yes" composite="No" />
+<Ingredient id="I34" spans="1223~1231" text="meatloaf" start_state="No" composite="Yes" />
 <Quantity id="Q0" spans="38~39" text="1"  />
 <Quantity id="Q2" spans="58~61" text="1/4"  />
 <Quantity id="Q3" spans="79~80" text="2"  />
@@ -98,7 +98,7 @@ In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top o
 <Unit id="U7" spans="202~208" text="slices"  />
 <Unit id="U8" spans="299~310" text="tablespoons"  />
 <Unit id="U9" spans="328~339" text="tablespoons"  />
-<Unit id="U10" spans="374~377" text="can"  />
+<Unit id="U10" spans="363~377" text="(15 ounce) can"  />
 <Unit id="U11" spans="404~407" text="cup"  />
 <Unit id="U12" spans="426~437" text="tablespoons"  />
 <Unit id="U13" spans="786~789" text="can"  />
@@ -147,18 +147,18 @@ In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top o
 <Flow id="F37" fromID="A12" fromText="Pour" toID="A13" toText="continue" />
 <Coref id="C0" exp_aID="I2" exp_aText="butter" exp_bID="I16" exp_bText="butter" />
 <Coref id="C1" exp_aID="I3" exp_aText="minced onion" exp_bID="I17" exp_bText="onion" />
-<Coref id="C2" exp_aID="I4" exp_aText="garlic" exp_bID="I18" exp_bText="garlic" />
+<Coref id="C2" exp_aID="I4" exp_aText="garlic, minced" exp_bID="I18" exp_bText="garlic" />
 <Coref id="C3" exp_aID="I5" exp_aText="salt" exp_bID="I19" exp_bText="salt" />
 <Coref id="C4" exp_aID="I6" exp_aText="freshly ground black pepper" exp_bID="I20" exp_bText="pepper" />
 <Coref id="C5" exp_aID="I7" exp_aText="extra-lean ground beef" exp_bID="I23" exp_bText="beef" />
-<Coref id="C6" exp_aID="I8" exp_aText="bread" exp_bID="I24" exp_bText="crumbled bread" />
-<Coref id="C7" exp_aID="I9" exp_aText="buttery round crackers" exp_bID="I25" exp_bText="crushed crackers" />
-<Coref id="C8" exp_aID="I10" exp_aText="egg" exp_bID="I26" exp_bText="egg" />
+<Coref id="C6" exp_aID="I8" exp_aText="bread, toasted and crumbled" exp_bID="I24" exp_bText="crumbled bread" />
+<Coref id="C7" exp_aID="I9" exp_aText="buttery round crackers, crushed" exp_bID="I25" exp_bText="crushed crackers" />
+<Coref id="C8" exp_aID="I10" exp_aText="egg, lightly beaten" exp_bID="I26" exp_bText="egg" />
 <Coref id="C9" exp_aID="I11" exp_aText="sour cream" exp_bID="I27" exp_bText="sour cream" />
 <Coref id="C10" exp_aID="I12" exp_aText="Worcestershire sauce" exp_bID="I28" exp_bText="Worcestershire sauce" />
-<Coref id="C11" exp_aID="I13" exp_aText="tomato sauce" exp_bID="I29" exp_bText="tomato sauce" />
+<Coref id="C11" exp_aID="I13" exp_aText="tomato sauce, divided" exp_bID="I29" exp_bText="tomato sauce" />
 <Coref id="C12" exp_aID="I14" exp_aText="milk" exp_bID="I30" exp_bText="milk" />
-<Coref id="C13" exp_aID="I13" exp_aText="tomato sauce" exp_bID="I32" exp_bText="remaining tomato sauce" />
+<Coref id="C13" exp_aID="I13" exp_aText="tomato sauce, divided" exp_bID="I32" exp_bText="remaining tomato sauce" />
 <Coref id="C14" exp_aID="I15" exp_aText="ketchup" exp_bID="I33" exp_bText="ketchup" />
 </TAGS>
 </recipe_annotatev0.1>
