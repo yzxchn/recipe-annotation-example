@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<recipe_annotatev0.1>
+<recipe_annotate_v0.1>
 <TEXT><![CDATA[The Best Meatloaf I've Ever Made
 
 85
@@ -161,4 +161,4 @@ In a small bowl, mix the remaining tomato sauce and ketchup. Pour over the top o
 <Coref id="C13" exp_aID="I13" exp_aText="tomato sauce, divided" exp_bID="I32" exp_bText="remaining tomato sauce" />
 <Coref id="C14" exp_aID="I15" exp_aText="ketchup" exp_bID="I33" exp_bText="ketchup" />
 </TAGS>
-</recipe_annotatev0.1>
+</recipe_annotate_v0.1>

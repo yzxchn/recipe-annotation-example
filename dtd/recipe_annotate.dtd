@@ -1,4 +1,4 @@
-<!ENTITY name "recipe_annotatev0.1">
+<!ENTITY name "recipe_annotate_v0.1">
 
 <!ELEMENT Action ( #PCDATA ) >
 <!ATTLIST Action act_type (Combine | Separate | Put | Remove | Cut | Mix | Cook | Serve | SetTool | Leave | Check | Other) #REQUIRED>
